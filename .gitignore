@@ -1,0 +1,7 @@
+.env
+.env.*
+*.mp4
+*.m4a
+*.wav
+*.zip
+*.local.json
